@@ -38,7 +38,7 @@ The dataset was imported into Google Sheets for cleaning and analysis.
 Records with blank Grade fields were excluded. Two pivot tables were 
 created to explore the data.
 
-**Google Sheet link:** [INSERT YOUR GOOGLE SHEET LINK HERE]
+**Google Sheet link:** https://docs.google.com/spreadsheets/d/1QQ6GqNDnqU-ucs5cFPjjIu28daZHcJ_iTN7qoz7rBls/edit?gid=1484213677#gid=1484213677
 
 ### Finding 1: Albany has the highest Yellow inspection rate
 
