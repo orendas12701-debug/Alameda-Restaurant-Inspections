@@ -1,4 +1,4 @@
-# Albany Leads Alameda County in Yellow-Rated Restaurant Inspections
+# Restaurant Inspections Reveal Uneven Food Safety Patterns Across Alameda County
 
 ## Data Source
 
