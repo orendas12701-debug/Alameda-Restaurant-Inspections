@@ -64,7 +64,7 @@ most persistent challenges for food facilities in Alameda County.
 
 ### Chart 1: Yellow-Rated Inspection Rate by City in Alameda County
 
-![Chart 1: Yellow inspection rate by city](chart1.png)
+![Chart 1: Yellow inspection rate by city](chart 1.png)
 
 Among cities in Alameda County with more than 500 inspection records, 
 Albany had the highest share of Yellow-rated inspections at 26%, more 
@@ -79,7 +79,7 @@ Restaurant Inspections Dataset, 2020.*
 
 ### Chart 2: Top 10 Most Common Health Violations in Alameda County Restaurants
 
-![Chart 2: Top 10 violations](chart2.png)
+![Chart 2: Top 10 violations](chart 2.png)
 
 The most frequently cited violation was related to floors, walls, and 
 ceilings, followed closely by food contact surface sanitation and 
